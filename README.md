@@ -8,6 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ayush3603&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+<!-- Social Media Links -->
 <p align="center">
 <a href="https://www.linkedin.com/in/ayushpandey3603/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,6 +20,12 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+<div align="center">
+  
+# 👋 Hi there, I'm Ayush!
+
+</div>
 
 ## 👨‍💻 About Me
 
@@ -57,37 +64,21 @@ const developer = {
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,firebase,git,docker" />
 </p>
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush3603&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush3603&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush3603&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush3603&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3603&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3603&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## 💼 What I'm Up To
+## 🌟 Current Focus
 
 - 🔭 Building scalable web applications
 - 🌱 Learning GraphQL, Docker, and AWS
@@ -96,12 +87,12 @@ const developer = {
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaborations, discussions, or just a friendly chat about technology!
+<p align="center">
+I'm always excited to connect with fellow developers and tech enthusiasts! Whether you want to discuss a project, share ideas, or just chat about technology, feel free to reach out through any of my social links above.
+</p>
 
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
-# Ayush3603
-# Ayush3603
